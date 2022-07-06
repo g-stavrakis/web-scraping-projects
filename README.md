@@ -1,6 +1,6 @@
 <img src="html_image.jpg" width="900" height="500">
 
-# Web Scrapping Projects
+# Web Scraping Projects
 
 1. Scrape and analyse the offering at Aldi's Job postings
 
